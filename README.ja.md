@@ -1,7 +1,8 @@
-Jenkins Team Foundation Server Trigger Plugin  
+Jenkins Team Foundation Server Notifier Plugin  
 ==================
 
-このプラグインは TFSのソース管理上で変更があった時にビルドを実行する為に使用します。  
+このプラグインは Jenkinsのビルド実行後に、  
+Team Foundation Serverの作業項目にJenkinsのリンクをコメントに追加します。  
 
 使用するには以下のライブラリをダウンロードして下さい。  
 Microsoft Visual Studio Team Foundation Server 2012 Software Development Kit for Java  
